@@ -42,6 +42,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque vel reiciendis ve
 ## 🌐 **Contato**
 
 📩 **E-mail:** [devcore07@gmail.com](devcore07@gmail.com)  
-📷 **Instagram:** []()
+📷 **Instagram:** [DevCore](https://www.instagram.com/devcore07/)
+
 
 ---
