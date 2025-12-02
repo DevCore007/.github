@@ -5,25 +5,25 @@
 
 ## ❓ **Quem somos**
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque vel reiciendis vero dolorum ex? Ratione quae alias hic ipsa! Nisi, temporibus odit! Doloribus, accusamus similique animi provident corrupti quaerat eveniet?
+Somos um núcleo de desenvolvedores iniciantes que seguem os príncipios da Programação Orientada a Objetos.
 
 ## 📌 **Missão**
 
-### Qual é a nossa *Missão*?
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque vel reiciendis vero dolorum ex? Ratione quae alias hic ipsa! Nisi, temporibus odit! Doloribus, accusamus similique animi provident corrupti quaerat eveniet?
+### **Qual é a nossa *Missão*?**
+Ampliar o nosso conhecimento e repertório sobre o mundo da computação.
 
 ## 👁‍🗨 **Visão**
 
-### *Onde* queremos chegar?
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque vel reiciendis vero dolorum ex? Ratione quae alias hic ipsa! Nisi, temporibus odit! Doloribus, accusamus similique animi provident corrupti quaerat eveniet?
+### ***Onde* queremos chegar?**
+Especialização dos membros da equipe até o final do curso.
 
 ## 💎 **Valores**
 
-### Quais são os *princípios* que guiam a equipe?
+### **Quais são os *princípios* que guiam a equipe?**
 
-* exemplo
-* exemplo
-* exemplo
+* Comunicação
+* Manutenabilidade
+* Qualidade
 
 ---
 
